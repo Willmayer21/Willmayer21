@@ -1,6 +1,6 @@
 Hi!!!👋
 My name is Will and I am coding from Mauritius 🇲🇺🏖️😎
-I just completed the Le Wagon Web Development bootcamp and started my career as a freelancer🤓 so if you need a website, do not hesitate to get in touch!👌
+I just completed the Le Wagon Web Development bootcamp and started my career as a freelancer🤓, if you need a website, do not hesitate to get in touch!👌
 As a team, we are currently working on our first job: a real estate website that will serve as a proof of concept for a bigger project🤫.
 Before coding, I studied marketing and entrepreneurship and innovation✨. 
 I worked in advertising for 3 years,🎁
